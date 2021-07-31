@@ -1,1 +1,1 @@
-genodeep-codes
+GenoDeep is a new cancer screening approach based on breakthrough deep learning algorithms, that just needs an ordinary blood sample to detect cancer. GenoDeep uses combined assays of altered cfDNAs and protein biomarkers from blood. By the mean of GenoDeep, we can identify the presence and localize the origin of malignancy at early stages in case of 8 type of cancers: Ovary, Liver, Stomach, Pancreas, Esophagus, Colorectum, Lung and Breast.
